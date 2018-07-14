@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958058580453",
+    "firebase_url": "https://findcollege-bd4bb.firebaseio.com",
+    "project_id": "findcollege-bd4bb",
+    "storage_bucket": "findcollege-bd4bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958058580453:android:de51a4bf2839ac55",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.findcollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958058580453-632tmg72l1s58spubd1b1avd8satqfgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.findcollege",
+            "certificate_hash": "64c588f5ee26a7c3d7ba5323d2b3202df6cedb15"
+          }
+        },
+        {
+          "client_id": "958058580453-icd1ch2aci1kath3h7fnplf68957vabd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1Kz31USDPwzNAh_iOA8n7ST1T9zESH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958058580453-icd1ch2aci1kath3h7fnplf68957vabd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
